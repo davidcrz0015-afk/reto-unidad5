@@ -184,7 +184,9 @@ Los diagramas están en la carpeta `docs/`, organizados por módulo:
 
 ## 11. Video de sustentación
 
+https://drive.google.com/file/d/1jHVlHjpDSJwn_HCTB609iZ8j39mnGayY/view?usp=sharing
 
+NOTA: El video no cuenta con previsualización por lo que se debe de descargar el archivo mp4 para su visualización y revisión  
 
 ---
 
